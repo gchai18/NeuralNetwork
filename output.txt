@@ -1,0 +1,29 @@
+Times Run: 23141
+lambda = 5.0
+Total Error = 9.998403296174303E-5
+
+Inputs: 0.0 0.0 
+Error: 5.4508018672277124E-5
+Target: 0.0 Output: 5.487969574334326E-5
+Target: 0.0 Output: 0.006504348663520037
+Target: 0.0 Output: 0.008167403138508254
+
+Inputs: 0.0 1.0 
+Error: 4.3921451416335303E-5
+Target: 0.0 Output: 0.0042858685113596395
+Target: 1.0 Output: 0.9957965887408113
+Target: 1.0 Output: 0.9928023915275883
+
+Inputs: 1.0 0.0 
+Error: 4.5862136149968634E-5
+Target: 0.0 Output: 0.004266580559783964
+Target: 1.0 Output: 0.9956644119899818
+Target: 1.0 Output: 0.9926024842525212
+
+Inputs: 1.0 1.0 
+Error: 5.471063261343123E-5
+Target: 1.0 Output: 0.9935033281009247
+Target: 1.0 Output: 0.9997765666909564
+Target: 0.0 Output: 0.00819540096755719
+
+Reason for ending: Error is below minimum error threshold of 1.0E-4
